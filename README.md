@@ -1,8 +1,6 @@
 # Welcome!
 
- <a href="https://www.linkedin.com/in/pedro-m-correia/">
-    <img align="left" alt="Pedro | Linkedin" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
-  </a>
+ <a href="https://www.linkedin.com/in/pedro-m-correia/">Linkedin</a>
 <br/>
 
 ### Recently I'm coding in...
