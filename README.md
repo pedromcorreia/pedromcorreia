@@ -3,9 +3,6 @@
  <a href="https://www.linkedin.com/in/pedro-m-correia/">
     <img align="left" alt="Pedro | Linkedin" width="30px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
   </a>
-  
-![Profile Views](https://komarev.com/ghpvc/?username=pedro-m-correia) ![status](https://img.shields.io/badge/status-up-brightgreen)
-
 <br/>
 
 ### Recently I'm coding in...
